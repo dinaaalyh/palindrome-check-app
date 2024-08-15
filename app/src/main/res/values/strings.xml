@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Palindrome</string>
+    <string name="name_input">Name</string>
+    <string name="palindrome_input">Palindrome</string>
+    <string name="button_check">CHECK</string>
+    <string name="button_next">NEXT</string>
+    <string name="welcome">Welcome</string>
+    <string name="selected_user">Selected User Name</string>
+    <string name="username">Username</string>
+    <string name="button_choose_user">Choose a User</string>
+    <string name="item_name">Firstname Lastname</string>
+    <string name="email">email</string>
+    <string name="name_cannot_be_empty">Name cannot be empty</string>
+    <string name="palindrome_input_cannot_be_empty">Palindrome input cannot be empty</string>
+    <string name="is_palindrome">Palindrome</string>
+    <string name="not_palindrome">Not Palindrome</string>
+    <string name="ok">OK</string>
+</resources>
